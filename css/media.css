@@ -1,0 +1,143 @@
+@media (max-width: 1440px) {
+    .our-work .project-name {
+      
+        height: 321px !important;
+    }
+    .our-work .project-name i {
+
+        font-size: 60px;
+    }
+    .our-work .project-name h1 {
+    
+        font-size: 40px;
+    }
+    .our-work .project-name p {
+    
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .our-work .project-name i {
+        font-size: 40px;
+    }
+    .our-work .project-name h1 {
+        font-size: 30px;
+    }
+    .our-work .project-name p {
+        font-size: 18px;
+    }
+    .our-work .project-name {
+        height: 232px !important;
+    }
+}
+
+@media (max-width: 1024px) {
+    .our-work .project-name i {
+        font-size: 40px;
+    }
+    .our-work .project-name h1 {
+        font-size: 30px;
+    }
+    .our-work .project-name p {
+        font-size: 18px;
+    }
+    .our-work .project-name {
+        height: 232px !important;
+    }
+
+}
+@media (max-width: 991.98px) {
+
+}
+@media (min-width: 768px) {
+    .tab-hide{
+        display: none;
+    }
+}
+@media (max-width: 768px) {
+    .our-work .project-name i {
+        font-size: 25px;
+    }
+    .our-work .project-name {
+      
+        height: 173px;
+    }
+    .step{
+        left: 25%;
+     animation: none;
+    }
+    .step2{
+        right: 25%;
+        animation: none;
+    }
+
+}
+@media (max-width: 575.98px) {
+    .navbar-brand img{
+        width: 60%;
+    }
+    .step{
+        text-align: center;
+        align-items: center;
+    }
+    .approach .step{
+        height: 100px;
+        width: 100px;
+        background: red;
+        text-align: center;
+        color: #fff;
+        border-radius: 5px;
+        position: absolute;
+        left: 32%;
+        animation: none;
+    }
+    .approach .step2{
+        height: 100px;
+        width: 100px;
+        background: red;
+        text-align: center;
+        color: #fff;
+        border-radius: 5px;
+        position: absolute;
+        left: 32%;
+        animation: none;
+    }
+}
+@media (max-width: 425px) {
+    .banner {
+        background-image: url(../images/background.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        min-height: 50vh;
+    }
+    .banner2 {
+        min-height: 50vh;
+    }
+    .ms-auto {
+        margin-left: auto!important;
+        text-align: center;
+    }
+    .py-5 {
+        padding-top: 1rem!important;
+        padding-bottom: 0rem!important;
+    }
+    .steptwo {
+        text-align: center;
+    }
+    .navit {
+        margin-left: auto!important;
+        text-align: right;
+    }
+    .our-work .project-name {
+        height: 197px;
+    }
+    .min-hide{
+        display: none;
+    }
+}
+@media (min-width: 425px){
+.our-work .project-name {
+    height: 197px !important;
+}
